@@ -1,2 +1,3 @@
 Editado Abril 2026
 Mudando ARQUIVO NA MAQUINA
+Editando no VS CODE
